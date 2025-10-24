@@ -7,13 +7,13 @@
 
 # Files
 
-|-- main.py # run program \n
-|-- dataset/ # **where to store btc files** \n
-|-- .env # env variables included for ease \n
-|-- config.py # store env vars \n
-|-- init_db.sql # database table and hypertable init \n
-|-- docker-compose.yml # container setup \n
-|-- requirements.txt # deps \n
+|-- main.py # run program \
+|-- dataset/ # **where to store btc files** \
+|-- .env # env variables included for ease \
+|-- config.py # store env vars \
+|-- init_db.sql # database table and hypertable init \
+|-- docker-compose.yml # container setup \
+|-- requirements.txt # deps \
 |-- scratch.ipynb # scratch work and iteration
 
 # Instructions (in terminal)
